@@ -6,7 +6,7 @@ The User gets to choose a starter Pokemon and then gets to fight and catch other
 
 I build this project to practice Java concepts such as abstract classes and interfaces.
 
-##To Do:
+## To Do:
 1. Add all the original Pokemons
 2. Implement a Travel method that let you visit places
 3. Create graphic rapresentation
