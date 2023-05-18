@@ -12,3 +12,5 @@ I build this project to practice Java concepts such as abstract classes and inte
 3. Create graphic rapresentation
 4. Create a method spcifically to catch Pokemons
 5. Handle incorrect user input
+6. Create a method to learn moves + create moves class/objects
+
